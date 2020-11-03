@@ -1,0 +1,29 @@
+<environment>
+    <parameter>
+        <key>Browser</key>
+        <value>Firefox</value>
+    </parameter>
+    <parameter>
+        <key>Browser.Version</key>
+        <value>53.0</value>
+    </parameter>
+    <parameter>
+        <key>Stand</key>
+        <value>QA</value>
+    </parameter>
+</environment>
+
+<!-- <qa:environment xmlns:qa="urn:model.commons.qatools.yandex.ru">
+    <id>2a54c4d7-7d79-4615-b80d-ffc1107016a1</id>
+    <name>Nhance Angular Web Environment</name>
+    <parameter>
+        <name>Browser</name>
+        <key>my.properties.browser</key>
+        <value>Firefox</value>
+    </parameter>
+    <parameter>
+        <name>Test stand</name>
+        <key>my.properties.url</key>
+        <value>http://139.59.46.199/nhance-web/login</value>
+    </parameter>
+</qa:environment> -->
